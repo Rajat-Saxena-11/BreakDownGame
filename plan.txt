@@ -1,0 +1,12 @@
+1. create canavs context
+2. create and draw ball
+3. create and draw the paddle
+4. craete bricks (array in array row column )
+5. draw the score 
+6. Add update()- Animate - requestAnimationFrame(callback)
+7. move paddle 
+8. keyboard event handlers to move paddle
+9. move ball
+10. Add wall bounderies
+11. Increase the score when the bricks break
+12. Lose - redraw bricks, reset score
